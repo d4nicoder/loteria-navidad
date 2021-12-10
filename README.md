@@ -38,4 +38,4 @@ docker run --rm \
   danitetus/loteria-navidad:latest
 ```
 ## Disclaimer
-Este script obtiene los datos de una api pública de [elpais.com](https://servicios.elpais.com/sorteos/loteria-navidad/api/), ya que la fuente oficia no proporciona ninguna API de la que extraer información. Al no tratarse ElPais de una fuente oficial, es posible que los datos no sean del todo correctos. Verifica siempre los datos en la página oficial de [Loterías y apuestas del Estado](https://www.loteriasyapuestas.es/es) 
+Este script obtiene los datos de una api pública de [elpais.com](https://servicios.elpais.com/sorteos/loteria-navidad/api/), ya que la fuente oficia no proporciona ninguna API de la que extraer información. Al no tratarse ElPais de una fuente oficial, es posible que los datos no sean del todo correctos. Verifica siempre los datos en la página oficial de [Loterías y apuestas del Estado](https://www.loteriasyapuestas.es/es). No me hago responsable de los daños o inconvenientes que pudiera ocasionar el uso de esta aplicación.
